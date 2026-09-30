@@ -1,0 +1,14 @@
+{
+  "codex": {
+    "rules": "E:/CodexHome/AGENTS.md",
+    "skills": "E:/CodexHome/skills"
+  },
+  "harness": {
+    "rules": "C:\\Users\\29485/.dsh/AGENTS.md",
+    "skills": "C:\\Users\\29485/.dsh/skills"
+  },
+  "workbuddy": {
+    "rules": "C:\\Users\\29485/.codebuddy/CODEBUDDY.md",
+    "skills": "C:\\Users\\29485/.workbuddy/skills"
+  }
+}

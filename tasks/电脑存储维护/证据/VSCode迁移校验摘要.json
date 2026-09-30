@@ -1,0 +1,16 @@
+[
+  {
+    "source": "C:\\Users\\29485\\.vscode",
+    "target": "E:\\SoftData\\VscodeData\\.vscode",
+    "files": 39785,
+    "bytes": 2757782002,
+    "sha256_verified": true
+  },
+  {
+    "source": "C:\\Users\\29485\\AppData\\Roaming\\Code",
+    "target": "E:\\SoftData\\VscodeData\\Code",
+    "files": 19975,
+    "bytes": 5511371538,
+    "sha256_verified": true
+  }
+]

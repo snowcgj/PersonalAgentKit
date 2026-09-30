@@ -1,0 +1,29 @@
+# Local backups and generated synchronization state
+/backups/
+/adapters/state.json
+
+# Python runtime artifacts
+__pycache__/
+*.pyc
+
+# Environment secrets (sanitized examples may be tracked)
+.env
+.env.*
+!.env.example
+!.env.sample
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Local databases, logs and temporary working files
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.sqlite*-wal
+*.sqlite*-shm
+*.log
+*.tmp
+/work/

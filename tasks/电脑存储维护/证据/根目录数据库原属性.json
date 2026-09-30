@@ -1,0 +1,12 @@
+[
+  {
+    "Path": "D:\\cache.db",
+    "Attributes": 32,
+    "Length": 16777216
+  },
+  {
+    "Path": "D:\\mdbx.dat",
+    "Attributes": 8224,
+    "Length": 1048576
+  }
+]

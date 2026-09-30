@@ -1,0 +1,109 @@
+{
+  "checked_at": "2026-09-30T11:45:18.283769+08:00",
+  "paths": [
+    {
+      "path": "C:\\Users\\29485\\AppData\\Local\\Android\\Sdk",
+      "exists": false
+    },
+    {
+      "path": "C:\\Users\\29485\\AppData\\Local\\Microsoft\\vscode-cpptools\\ipch",
+      "exists": false
+    },
+    {
+      "path": "D:\\Cache\\vscode-cpptools",
+      "exists": true,
+      "attributes": 16,
+      "is_link": false
+    },
+    {
+      "path": "C:\\Users\\29485\\.vscode",
+      "exists": true,
+      "attributes": 1040,
+      "is_link": true,
+      "resolved": "E:\\SoftData\\VscodeData\\.vscode"
+    },
+    {
+      "path": "C:\\Users\\29485\\AppData\\Roaming\\Code",
+      "exists": true,
+      "attributes": 1040,
+      "is_link": true,
+      "resolved": "E:\\SoftData\\VscodeData\\Code"
+    },
+    {
+      "path": "C:\\Users\\29485\\.vscode.pre-E-migration",
+      "exists": true,
+      "attributes": 16,
+      "is_link": false
+    },
+    {
+      "path": "C:\\Users\\29485\\AppData\\Roaming\\Code.pre-E-migration",
+      "exists": true,
+      "attributes": 16,
+      "is_link": false
+    },
+    {
+      "path": "C:\\ProgramData\\cocos",
+      "exists": false
+    },
+    {
+      "path": "C:\\Users\\29485\\AppData\\Roaming\\CocosCreator",
+      "exists": false
+    },
+    {
+      "path": "C:\\Users\\29485\\.CocosCreator",
+      "exists": false
+    },
+    {
+      "path": "C:\\Users\\29485\\AppData\\Roaming\\Xiamen Yaji Software Co., Ltd",
+      "exists": false
+    },
+    {
+      "path": "C:\\Users\\29485\\AppData\\Local\\Unity\\cache",
+      "exists": false
+    },
+    {
+      "path": "D:\\ToolsSoftware\\CloudDisk\\Quark\\7.1.7.975",
+      "exists": false
+    },
+    {
+      "path": "D:\\ToolsSoftware\\CloudDisk\\Quark\\7.2.2.1003",
+      "exists": false
+    },
+    {
+      "path": "D:\\ToolsSoftware\\CloudDisk\\Quark\\7.3.5.1009",
+      "exists": true,
+      "attributes": 16,
+      "is_link": false
+    },
+    {
+      "path": "D:\\ToolsSoftware\\CloudDisk\\BaiduNetdisk\\AutoUpdate\\Download\\MainApp\\fullpackage_883101_x64.cab",
+      "exists": false
+    },
+    {
+      "path": "D:\\ToolsSoftware\\CloudDisk\\BaiduNetdisk\\AutoUpdate\\Autoupdate.exe",
+      "exists": true,
+      "attributes": 32,
+      "is_link": false,
+      "bytes": 3317504
+    },
+    {
+      "path": "D:\\cache.db",
+      "exists": true,
+      "attributes": 34,
+      "is_link": false,
+      "bytes": 16777216
+    },
+    {
+      "path": "D:\\mdbx.dat",
+      "exists": true,
+      "attributes": 8226,
+      "is_link": false,
+      "bytes": 1048576
+    }
+  ],
+  "settings_lines": [
+    "\"workbench.sideBar.location\": \"right\",",
+    "\"C_Cpp.intelliSenseCachePath\": \"D:\\\\Cache\\\\vscode-cpptools\",",
+    "\"C_Cpp.intelliSenseCacheSize\": 1024,"
+  ]
+}
