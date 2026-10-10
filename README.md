@@ -6,6 +6,8 @@
 
 ## 日常用法
 
+数据位置和管理约定见 [Agent 数据管理](knowledge/Agent数据管理.md)。这份公共背景按需读取，不要求每个任务加载全部知识。
+
 1. 改公共规则：编辑 rules/common.md。
 2. 加公共 Skill：在 skills/agentkit-名称/SKILL.md 编写，配套文件留在同目录。客户端特有工具需另行适配。
 3. 加知识：更新 knowledge/INDEX.md；原始项目文件留在原位置。
