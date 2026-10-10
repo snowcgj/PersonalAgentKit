@@ -27,3 +27,8 @@ __pycache__/
 *.log
 *.tmp
 /work/
+
+# Raw diagnostic captures: kept on disk for re-checking, excluded because they
+# contain host name, account name, full software path lists, TPM attestation
+# and internal IP addresses. Git history is not purged by deleting a file.
+原始采集/
